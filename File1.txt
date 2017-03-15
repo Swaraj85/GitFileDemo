@@ -3,3 +3,5 @@ Initial file 1 content in master branch
 additional changes
 
 more stashed changes.
+
+amended changes
